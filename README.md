@@ -10,6 +10,7 @@ The goal is to help the bank analyze average wait times, queue lengths, and tell
 💡 Concepts Used
 
 C Concepts:
+<br>
 Loops and functions
 Structures and arrays
 Random number generation
@@ -17,6 +18,7 @@ Dynamic memory (malloc, free)
 Time-based seeding (time.h)
 
 Math Concepts:
+<br>
 Poisson distribution (customer arrivals)
 Exponential distribution (service times)
 Mean and probability calculations
