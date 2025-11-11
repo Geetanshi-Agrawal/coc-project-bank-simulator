@@ -12,19 +12,27 @@ The goal is to help the bank analyze average wait times, queue lengths, and tell
 C Concepts:
 <br>
 Loops and functions
+<br>
 Structures and arrays
+<br>
 Random number generation
+<br>
 Dynamic memory (malloc, free)
+<br>
 Time-based seeding (time.h)
 
 Math Concepts:
 <br>
 Poisson distribution (customer arrivals)
+<br>
 Exponential distribution (service times)
+<br>
 Mean and probability calculations
 
 ⚙️ How to Compile
+<br>
 gcc bank_queue.c -o bank_queue -lm
 
 ▶️ How to Run
+<br>
 ./bank_queue
